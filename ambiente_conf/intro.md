@@ -1,6 +1,6 @@
 <h1><b><i>2.1 Sobre a seção</i></b></h1>
 <ul>
-    <p>Nesta seção, vamos ver basicamente como configurar o ambiente de trabalho, mostrando como fazer a instalação do R e do RStudio (o ambiente de desenvolvimento mais utilizado, e também mais prático), tanto no Windows Quanto no Linux</p>
+    <p>Nesta seção, vamos ver basicamente como configurar o ambiente de trabalho, mostrando como fazer a instalação do R e do RStudio (o ambiente de desenvolvimento mais utilizado, e também mais prático), tanto no Windows quanto no Linux</p>
 </ul>
 
 
