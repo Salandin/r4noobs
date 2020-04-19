@@ -10,12 +10,13 @@
 <p>Enfim, para fazer a instação, abra o termina e use o seguinte comando:</p>
 
 <code>apt-get update</code>
+
 <code>apt-get install r-base r-base-dev</code>
 
 <blockquote>Faz um tempo que não uso o linux, então, caso esteja errado, me manda um ISSUE ou um COMMIT fazendo a correção, lembrando, qualquer contribuição é sempre valida.</blockquote>
 
 <a href="https://cran.r-project.org/bin/windows/base/README.R-3.6.3">https://cran.r-project.org/bin/windows/base/README.R-3.6.3</a>
 
-<h4 align="Right"><a href="">Proximo</a></h4>
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/ambiente_conf/instal_rstudio.md">Proximo</a></h4>
 <h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
 <h4><a href="https://github.com/SaLandini/r4noobs/blob/master/ambiente_conf/intro.md">Anterior</a></h4>
