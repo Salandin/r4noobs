@@ -6,4 +6,5 @@
 
 <p>O R é um conjunto de softwares que deixa mais facil fazer os calculos, os graficos, ou manipular os dados. Pra programar em R, você pode utilizar o VSCode, Pycharm, o RGui ou o RStudio.</p>
 
-<h4 align="Right"><a href="">Próximo</a></h4>
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/introducao/talkabout.md">Próximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
