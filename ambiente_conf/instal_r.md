@@ -1,6 +1,6 @@
 <h1><b><i>2.2 Instalação do R</i></b></h1>
 
-<h3>No Windows<h3>
+<h3>No Windows</h3>
 
 <p>Pra fazer a instalação do R no Windows, basta acessar este site <a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a> e seguir a instalação como qualquer outro programa</p>
 
