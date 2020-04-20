@@ -1,0 +1,5 @@
+site_name: R4Noobs
+pages:
+      - Home: index.md
+      - Sobre: sobre.md
+theme: readthedocs
