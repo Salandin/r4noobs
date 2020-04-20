@@ -21,7 +21,7 @@ e verificamos a sua classe com o comando "<code>class()</code>".</p>
 <p>ou</p>
     
     > var <- as.integer(90)
-
-<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/r/var.md">Proximo</a></h4>
+   
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/r/Coments.md">Proximo</a></h4>
 <h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
 <h4><a href="https://github.com/SaLandini/r4noobs/blob/master/r/about_new.md">Anterior</a></h4><
