@@ -9,4 +9,6 @@
     > vari
     [1] 17
 
-<p></p>
+<p>Você também o tipo com o comando "<code>is.</code>" que vai retornar um valor bolleano, True/False. Como você pode ver no exemplo abaixo:</p>
+
+    
