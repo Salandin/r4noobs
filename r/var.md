@@ -1,1 +1,1 @@
-<h1><b><i>3.3 Variável</i></b></h1>
+<h1><b><i>3.3 Variáveis</i></b></h1>
