@@ -9,7 +9,7 @@
     > vari
     [1] 17
 
-<p>Você também o tipo com o comando "<code>is.</code>" que vai retornar um valor bolleano, True/False. Como você pode ver no exemplo abaixo:</p>
+<p>É possivel ver qual o tipo da variável com o comando "<code>is.</code>" que vai retornar um valor bolleano, True/False. Como você pode ver no exemplo abaixo:</p>
 
     x <- 123L
     y <- "He4rt Developers"
@@ -30,4 +30,6 @@
     is.numeric(x)
     [1]FALSE
 
-    
+<h4 align="Right"><a href="">Proximo (ignore) </a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/r/NA.md">Anterior</a></h4>
