@@ -5,6 +5,7 @@
 <table>
     <thead>
         <th>Operadores</th>
+        <th>Significado</th>
     </thead>
     <tbody>
         <tr>
@@ -14,6 +15,18 @@
         <tr>
             <td>-</td>
             <td>Subtração</td>
+        </tr>
+        <tr>
+            <td>*</td>
+            <td>Multiplicação</td>
+        </tr>
+        <tr>
+            <td>/</td>
+            <td>Divisão</td>
+        </tr>
+        <tr>
+            <td>^</td>
+            <td>Potência</td>
         </tr>
     </tbody>
 </table>
