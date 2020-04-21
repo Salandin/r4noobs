@@ -2,7 +2,7 @@
 
 <p>Aqui estaremos falando sobre os operadores pra fazer soma, multiplicação, potência, etc.</p>
 
-<table>
+<table align="Center">
     <thead>
         <th>Operadores</th>
         <th>Significado</th>
@@ -30,3 +30,4 @@
         </tr>
     </tbody>
 </table>
+
