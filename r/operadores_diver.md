@@ -13,49 +13,49 @@
             <td>Modo</td>
             <td>%%</td>
             <td>
-                <code>> 10%%2<br>[1] 0</code>    
+                <code>> 10%%2<p></p>[1] 0</code>    
             </td>
         </tr>
         <tr>
             <td>Divisão de Inteiros</td>
             <td>%/%</td>
             <td>
-                <code>> 10 %/% 3<br>[1] 3</code>    
+                <code>> 10 %/% 3<p></p>[1] 3</code>    
             </td>
         </tr>
         <tr>
             <td> Pi (π) </td>
             <td>pi</td>
             <td>
-                <code>> pi<br>[1] 3.141593</code>    
+                <code>> pi<p></p>[1] 3.141593</code>    
             </td>
         </tr>
         <tr>
             <td>Valor Absoluto "|x|"</td>
             <td>abs</td>
             <td>
-                <code>> abs(-100)<br>[1] 100</code>    
+                <code>> abs(-100)<p></p>[1] 100</code>    
             </td>
         </tr>
         <tr>
             <td>Logaritimo</td>
             <td>log</td>
             <td>
-                <code>> log(2,base=5)<br>[1] 0.4306766</code>    
+                <code>> log(2,base=5)<p></p>[1] 0.4306766</code>    
             </td>
         </tr>
         <tr>
             <td>Fatorial "n!"</td>
             <td>fatorial</td>
             <td>
-                <code>> fatorial(4)<br>[1] 24</code>    
+                <code>> fatorial(4)<p></p>[1] 24</code>    
             </td>
         </tr>
         <tr>
             <td>Raiz quadrada</td>
             <td>sqrt</td>
             <td>
-                <code>> sqrt(4)<br>[1] 2</code>    
+                <code>> sqrt(4)<p></p>[1] 2</code>    
             </td>
         </tr>
         <tr>
@@ -69,14 +69,14 @@
             <td>Coseno</td>
             <td>cos</td>
             <td>
-                <code>> cos(10)<br>[1] -0.8390715</code>    
+                <code>> cos(10)<p></p>[1] -0.8390715</code>    
             </td>
         </tr>
         <tr>
             <td>Tangente</td>
             <td>tan</td>
             <td>
-                <code>> tan(10)<br>[1] 0.6483608</code>    
+                <code>> tan(10)<p></p>[1] 0.6483608</code>    
             </td>
         </tr>
     </tbody>
