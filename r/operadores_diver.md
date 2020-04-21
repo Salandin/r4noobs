@@ -14,7 +14,7 @@
             <td>%%</td>
             <td>
                 <code>> 10%%2</code>
-                <code>[1] 0</code>    
+                <code><br>[1] 0</code>    
             </td>
         </tr>
         <tr>
@@ -22,7 +22,7 @@
             <td>%/%</td>
             <td>
                 <code>> 10 %/% 3</code>
-                <code>[1] 3</code>    
+                <code><br>[1] 3</code>    
             </td>
         </tr>
         <tr>
@@ -30,7 +30,7 @@
             <td>pi</td>
             <td>
                 <code>> pi</code>
-                <code>[1] 3.141593</code>    
+                <code><br>[1] 3.141593</code>    
             </td>
         </tr>
         <tr>
@@ -38,7 +38,7 @@
             <td>abs</td>
             <td>
                 <code>> abs(-100)</code>
-                <code>[1] 100</code>    
+                <code><br>[1] 100</code>    
             </td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@
             <td>log</td>
             <td>
                 <code>> log(2,base=5)</code>
-                <code>[1] 0.4306766</code>    
+                <code><br>[1] 0.4306766</code>    
             </td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@
             <td>fatorial</td>
             <td>
                 <code>> fatorial(4)</code>
-                <code>[1] 24</code>    
+                <code><br>[1] 24</code>    
             </td>
         </tr>
         <tr>
@@ -62,7 +62,7 @@
             <td>sqrt</td>
             <td>
                 <code>> sqrt(4)</code>
-                <code>[1] 2</code>    
+                <code><br>[1] 2</code>    
             </td>
         </tr>
         <tr>
@@ -70,7 +70,7 @@
             <td>sin</td>
             <td>
                 <code>> sin(10)</code>
-                <code>[1] -0.5440211</code>    
+                <code><br>[1] -0.5440211</code>    
             </td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@
             <td>cos</td>
             <td>
                 <code>> cos(10)</code>
-                <code>[1] -0.8390715</code>    
+                <code><br>[1] -0.8390715</code>    
             </td>
         </tr>
         <tr>
@@ -86,7 +86,7 @@
             <td>tan</td>
             <td>
                 <code>> tan(10)</code>
-                <code>[1] 0.6483608</code>    
+                <code><br>[1] 0.6483608</code>    
             </td>
         </tr>
     </tbody>
