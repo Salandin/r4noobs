@@ -30,6 +30,6 @@
     is.numeric(x)
     [1]FALSE
 
-<h4 align="Right"><a href="">Proximo (ignore) </a></h4>
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/r/operadore.md">Proximo</a></h4>
 <h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
 <h4><a href="https://github.com/SaLandini/r4noobs/blob/master/r/NA.md">Anterior</a></h4>

@@ -50,3 +50,7 @@
         </tr>
     </tbody>
 </table>
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/r/operadores_diver.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/r/operadore.md">Anterior</a></h4>

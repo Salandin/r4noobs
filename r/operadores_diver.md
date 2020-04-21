@@ -62,7 +62,7 @@
             <td>Seno</td>
             <td>sin</td>
             <td>
-                <code>> sin(10)<br>[1] -0.5440211</code>    
+                <code>> sin(10)<p></p>[1] -0.5440211</code>    
             </td>
         </tr>
         <tr>
@@ -81,3 +81,7 @@
         </tr>
     </tbody>
 </table>
+
+<h4 align="Right"><a href="">Proximo (Em Produção)</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/r/operadores_logicos.md">Anterior</a></h4>
