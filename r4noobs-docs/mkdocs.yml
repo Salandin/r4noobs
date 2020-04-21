@@ -1,5 +1,9 @@
 site_name: R4Noobs
-pages:
-      - Home: index.md
-      - Sobre: sobre.md
-theme: readthedocs
+repo_url: 'https://github.com/SaLandini/r4noobs'
+repo_name: 'R4Noobs'
+theme:
+  name: null
+  custom_dir: mkdocs-windmill-dark-master/mkdocs_windmill_dark
+
+nav:
+  - Introdução: index.md

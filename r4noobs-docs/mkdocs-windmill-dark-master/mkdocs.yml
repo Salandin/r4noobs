@@ -1,0 +1,34 @@
+site_name: 'Windmill Dark MkDocs Theme'
+site_description: 'MkDocs theme focused on navigation and usability.'
+site_author: 'Alexandre ZANNI'
+
+repo_url: https://github.com/noraj/mkdocs-windmill-dark
+
+theme:
+    name: null
+    custom_dir: mkdocs_windmill_dark
+    # default from mkdocs_theme.yml
+    static_templates:
+        - 404.html
+    include_search_page: true
+    search_index_only: true
+    history_buttons: true
+    article_nav_top: true
+    article_nav_bottom: true
+
+nav:
+    - Usage: index.md
+    - Customization: customization.md
+    - Samples:
+        - Sample Page A: sample-a.md
+        - Sample Subfolder:
+            - Sample Subpage A1: sample-a1.md
+            - Sample Subpage A2: sample-a2.md
+        - Sample Page B: sample-b.md
+
+markdown_extensions:
+    - toc:
+        permalink: '#'
+
+extra:
+    version: 0.1.4
