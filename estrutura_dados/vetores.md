@@ -27,3 +27,6 @@
     > vetTeste[11]
     [1] NA
     
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/len_e_scan.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/sobre.md">Anterior</a></h4>
