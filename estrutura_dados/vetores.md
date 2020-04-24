@@ -9,7 +9,7 @@
     > vetBool
     [1] TRUE FALSE TRUE
     > vetInter 
-    [1] 12L 23L 90L
+    [1] 12 23 90
 
 <p>É possível ver apenas um desses dados escrevendo o nome do vetor e colocando o a posição do dado dentro de colchetes.</p>
 
