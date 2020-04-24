@@ -7,3 +7,6 @@ theme:
 
 nav:
   - Introdução: index.md
+  - Configurando o Ambiente: configambiente.md
+  - License: license.md
+
