@@ -69,3 +69,7 @@
     [1] "He4rtDevelopers"
 
 <p>Com o primeiro valor sendo a linha e o segundo valor a coluna</p>
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/list.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/len_e_scan.md">Anterior</a></h4>

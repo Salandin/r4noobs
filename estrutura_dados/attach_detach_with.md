@@ -23,3 +23,8 @@
 
     > with(fata,sum(id))
     [1] 13
+
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/crian_sequencias.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/data_frame.md">Anterior</a></h4>

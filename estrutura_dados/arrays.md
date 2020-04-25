@@ -44,3 +44,8 @@
     [1] TRUE
 
 <p>sendo o primeiro numero a linha, o segundo a coluna e o último a tabela.</p>
+
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/data_frame.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/list.md">Anterior</a></h4>
