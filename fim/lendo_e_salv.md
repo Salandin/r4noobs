@@ -23,3 +23,7 @@
     > load("alprazolam.RData")
 
 <p>E pronto, é só fazer o que quiser na sua matrix.</p>
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/agrad.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/import_dados.md">Anterior</a></h4>

@@ -31,3 +31,7 @@
     [4] "    <meta charset=\"utf-8\" />"                                                
     [5] "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />"               
     [6] "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/lendo_e_salv.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/pack.md">Anterior</a></h4>

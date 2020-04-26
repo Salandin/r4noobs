@@ -27,3 +27,8 @@
     [1] 1 2 3 4 5 6 7 8 9
     > class(integer)
     [1] "integer"
+
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/pack.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/s_seção">Anterior</a></h4>

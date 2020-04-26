@@ -13,3 +13,7 @@
     <li>Depois, clica em install, digita o nome do pacote e install de novo</li>
     <li><img src="https://cdn.discordapp.com/attachments/699296519928414220/704095914331078757/unknown-72.png" width="500"></li>
 </ul>
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/import_dados.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/fim/conver_dado.md">Anterior</a></h4>
