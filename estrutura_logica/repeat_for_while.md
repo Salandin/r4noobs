@@ -71,3 +71,7 @@
     [1] 20
 
 <p>Agora eu acho mais facíl de entender, então, para cada item em a, imprima ele adicionando 1 ao valor original, ou "<code>for(i in a) print(i + 1)</code>".</p>
+
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_logica/break_next.md">Proximo</a></h4>
+<h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
+<h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_logica/if_else.md">Anterior</a></h4>
