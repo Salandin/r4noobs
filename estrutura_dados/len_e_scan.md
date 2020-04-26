@@ -1,4 +1,4 @@
-<h1><b><i>4.3 Length e Scan</i></b></h1>
+<h1><b><i>5.3 Length e Scan</i></b></h1>
 
 <h3><b>- Length</b></h3>
 <p>A função <i>Length</i> vai retornar o tamanho do seu vetor, servindo para mudar o valor de algum dado do seu vetor. como no exemplo:</p>

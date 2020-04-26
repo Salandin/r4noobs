@@ -1,4 +1,4 @@
-<h1><b><i>4.9 Criando Sequências</i></b></h1>
+<h1><b><i>5.9 Criando Sequências</i></b></h1>
 <p>Existem duas de fazer as sequências númericas, a primeira é usando dois pontos, dessa forma:
 
     > var<-c(1:20)

@@ -1,4 +1,4 @@
-<h1><b><i>4.2 Vetores</i></b></h1>
+<h1><b><i>5.2 Vetores</i></b></h1>
 <p>Os vetores permitem guardar um conjunto de dados do mesmo tipo, você faz a atribuição de um vetor usando "<code>c()</code>" e cada elemento é separado por vírgulas, veja o exemplo:</p>
 
     > vetNum<-c(1, 5, 8, 4, 7)

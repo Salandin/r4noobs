@@ -1,4 +1,4 @@
-<h1><b><i>4.6 Arrays</i></b></h1>
+<h1><b><i>5.6 Arrays</i></b></h1>
 <p>Em quanto os vetores tem apenas uma dimenção e a matriz tem duas dimenções, um arrays tem n dimenções.</p>
 
 <ul>

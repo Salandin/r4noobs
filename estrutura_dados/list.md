@@ -1,4 +1,4 @@
-<h1><b><i>4.5 Listas</i></b></h1>
+<h1><b><i>5.5 Listas</i></b></h1>
 <p>A Lista é uma estrutura de dados meio peculiar, já que pode conter uma matriz ou até mesmo outra lista dentro dela. Toda lista é atribuida usando o comando "<code>list()</code>" e cada dado é retornado com um "[[x]]", sendo o x  a posição do dado</p>
 
     > vetor<-c("a","s","f","h","j","k","i")

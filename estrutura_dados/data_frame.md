@@ -1,4 +1,4 @@
-<h1><b><i>4.7 Data Frame</i></b></h1>
+<h1><b><i>5.7 Data Frame</i></b></h1>
 <p>O Data Frame é uma estrutura de dados que se assemelha a uma tabela de um banco de dados, permitindo você adicionar diferentes tipos de dados nele. Ele é basica um conjunto de vetores de comprimento igual</p>
 <p>Para montar um data frame, precisamos, primeiro ter os vetores já pronto</p>
 

@@ -1,4 +1,4 @@
-<h1><b><i>4.4 Matrizes</i></b></h1>
+<h1><b><i>5.4 Matrizes</i></b></h1>
 <p>Em R, as matrizes é uma estrutura de dados homogêneal, ou seja, deve ter os mesmos tipos de dados. Para fazer uma matriz, usamos o comando "<code>matrix()</code>", dentro do parentese, usamos os camandos:"<code> data=</code>","<code> nrow=</code>","<code> ncol=</code>".</p>
 
 

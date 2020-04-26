@@ -1,4 +1,4 @@
-<h1><b><i>4.8 Attach, Detach & With</i></b></h1>
+<h1><b><i>5.8 Attach, Detach & With</i></b></h1>
 
 <h3><b>Attach</b></h3>
     <p>Se fizermos um Data Frame com as variavéis dentro do comando <code>data.frame()</code>, como o exemplo abaixo:</p>
