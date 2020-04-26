@@ -40,6 +40,6 @@
 
 <p>Ele vai basicamente verificar se x é modulo de 2, caso seja, ele retorna "<code>TRUE</code>, caso não seja, retorna "<code>FALSE</code>"</p>
 
-<h4 align="Right"><a href="">Proximo (Calma, está sendo feito)</a></h4>
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_dados/sobre.md">Proximo</a></h4>
 <h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
 <h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_logica/break_next.md">Anterior</a></h4>

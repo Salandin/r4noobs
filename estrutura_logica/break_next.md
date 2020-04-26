@@ -33,6 +33,6 @@
     + print(i)
     + }
 
-<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_logica/crian_funções.md">Proximo</a></h4>
+<h4 align="Right"><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_logica/crian_funçôes.md">Proximo</a></h4>
 <h4 align="Center"><a href="https://github.com/SaLandini/r4noobs">Voltar ao git</a></h4>
 <h4><a href="https://github.com/SaLandini/r4noobs/blob/master/estrutura_logica/repeat_for_while.md">Anterior</a></h4>
