@@ -58,7 +58,7 @@
 </ol>
 <h1>Autores</h1>
 <ul>
-    <li><img src="https://avatars2.githubusercontent.com/u/62630050?s=460&u=3a17da68fbbf62a55998ff0b045881eedea69c0f&v=4" widght="30" height="30"><b>Rafael Salandin Moraes</b>, Git:<a href="https://github.com/SaLandini"> SaLandini</a> Twitter: <a href="https://twitter.com/RafaSalandinM">Don't hug me, I am scared</a> ou simplesmente @RafaSalandinM</li>
+    <li><img src="https://avatars3.githubusercontent.com/u/62630050?s=460&u=e747fa53ebfb82c18fff73bf928b713a2f2ecff5&v=4" widght="30" height="30"><b>Rafael Salandin Moraes</b>, Git:<a href="https://github.com/SaLandini"> SaLandini</a> Twitter: <a href="https://twitter.com/RafaSalandinM">Don't hug me, I am scared</a> ou simplesmente @RafaSalandinM</li>
     <li><img src="https://avatars3.githubusercontent.com/u/64038112?s=400&u=1f095c06ed378ad9d435448c4bbb7f16126a66f8&v=4" widght="30" height="30"><b>Murilo Barbosa</b>, Git:<a href="https://github.com/murilobarbosa26"> murilobarbosa26</a> Twitter: <a href="https://twitter.com/MuriloBarbosa26">ムリロ</a> ou simplesmente @MuriloBarbosa26</li>
 </ul>
 
