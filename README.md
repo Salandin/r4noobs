@@ -30,6 +30,7 @@
       * [Instalação](./contents/1%20-%20Introducao/2-Pre-requisitos.md#instalação)
 2. Linguagem
     - [Sobre a linguagem](./contents/3%20-%20Linguagem/1-Sobre%20a%20linguagem.md)
+    - [Sintaxe](./contents/3%20-%20Linguagem/2-Sintaxe.md)
 
 ## Quero contribuir
 
