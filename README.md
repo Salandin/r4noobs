@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <strong>O curso básico/iniciante está em desenvolvimento</strong>
+  <strong>O curso básico/iniciante está em desenvolvimento...</strong>
   <br />
   <a href="#conteúdos"><strong>Explore a documentação »</strong></a>
   <br />
