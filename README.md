@@ -28,9 +28,7 @@
     - [Pré-requisitos](./contents/1%20-%20Introducao/2-Pre-requisitos.md)
       * [Conhecimentos Necessários](./contents/1%20-%20Introducao/2-Pre-requisitos.md#conhecimentos-necessários)
       * [Instalação](./contents/1%20-%20Introducao/2-Pre-requisitos.md#instalação)
-2. Ambiente
-    - [Como começar?](./contents/2%20-%20Ambiente/1-Como%20comecar.md)
-3. Linguagem
+2. Linguagem
     - [Sobre a linguagem](./contents/3%20-%20Linguagem/1-Sobre%20a%20linguagem.md)
 
 ## Quero contribuir
