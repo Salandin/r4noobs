@@ -30,7 +30,11 @@
       * [Instalação](./contents/1%20-%20Introducao/2-Pre-requisitos.md#instalação)
 2. Linguagem
     - [Sobre a linguagem](./contents/3%20-%20Linguagem/1-Sobre%20a%20linguagem.md)
+      * [Extensão](./contents/1%20-%20Introducao/1-Sobre%20a%20linguagem.md#extensão)
+      * [Código fonte](./contents/1%20-%20Introducao/1-Sobre%20a%20linguagem.md#código-fonte)
     - [Sintaxe](./contents/3%20-%20Linguagem/2-Sintaxe.md)
+    - [Variáveis](./contents/3%20-%20Linguagem/3-Variaveis.md)
+      * [Tipos](./contents/1%20-%20Introducao/3-Variaveis.md#tipos)
 
 ## Quero contribuir
 
