@@ -29,12 +29,19 @@
       * [Conhecimentos Necessários](./contents/1%20-%20Introducao/2-Pre-requisitos.md#conhecimentos-necessários)
       * [Instalação](./contents/1%20-%20Introducao/2-Pre-requisitos.md#instalação)
 2. Linguagem
-    - [Sobre a linguagem](./contents/3%20-%20Linguagem/1-Sobre%20a%20linguagem.md)
-      * [Extensão](./contents/1%20-%20Introducao/1-Sobre%20a%20linguagem.md#extensão)
-      * [Código fonte](./contents/1%20-%20Introducao/1-Sobre%20a%20linguagem.md#código-fonte)
-    - [Sintaxe](./contents/3%20-%20Linguagem/2-Sintaxe.md)
-    - [Variáveis](./contents/3%20-%20Linguagem/3-Variaveis.md)
-      * [Tipos](./contents/1%20-%20Introducao/3-Variaveis.md#tipos)
+    - [Sobre a linguagem](./contents/2%20-%20Linguagem/1-Sobre%20a%20linguagem.md)
+      * [Extensão](./contents/2%20-%20Linguagem/1-Sobre%20a%20linguagem.md#extensão)
+      * [Código fonte](./contents/2%20-%20Linguagem/1-Sobre%20a%20linguagem.md#código-fonte)
+    - [Sintaxe](./contents/2%20-%20Linguagem/2-Sintaxe.md)
+    - [Variáveis](./contents/2%20-%20Linguagem/3-Variaveis.md)
+      * [Tipos](./contents/2%20-%20Linguagem/3-Variaveis.md#tipos)
+    - [Operadores logícos](./contents/2%20-%20Linguagem/4-Operadores%20logícos.md)
+    - [Estrutura de decisão]()
+    - [Estrutura de repetição]()
+3. OOP 
+    - [Classes]()
+    - [Métodos]()
+    - [Herança e Polimorfismo]()
 
 ## Quero contribuir
 
