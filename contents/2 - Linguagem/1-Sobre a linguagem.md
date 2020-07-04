@@ -6,7 +6,7 @@ Foi criado originalmente por Ross Ihaka e por Robert Gentleman no departamento d
 
 ## Extensão
 
-Na liguagem R, temos dois tipos de extensão de arquivo, o .r e o .rdata.
+Na liguagem R, temos dois tipos de extensão de arquivo principais, o .r e o .rdata, entretanto existem outras extensões de arquivos que você pode achar no RStudio
 
 #### arquivo_com_extensão.r 
 Um arquivo com extensão .r, é o seu script, o codigo que vai ser execultado pelo software que você estiver usando.
