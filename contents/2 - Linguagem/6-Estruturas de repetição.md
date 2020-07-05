@@ -27,7 +27,8 @@ while(TRUE){
 # For (Para)
 
 #O for funciona de forma parecida com o while
-# entretando, ele é mais utilizado quando você tem um lista com varios algoritimos e quer os vizualizar ou somar um valor em cada item
+# entretando, ele é mais utilizado quando você tem um lista com varios algoritimos 
+#e quer os vizualizar ou somar um valor em cada item
 #pra esse exemplo, vamos criar uma variavél com 90 valores
 
 vari <-c(1:90)
