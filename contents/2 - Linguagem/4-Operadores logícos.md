@@ -1,4 +1,4 @@
-# 4.1 Operadores Logícos
+# 2.4 Operadores Logícos
 
 Assim como em outras linguagens, eles são usados nas estruturas de condição e em alguns casos para deixar o codigo mais simples.
 

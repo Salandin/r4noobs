@@ -1,4 +1,4 @@
-# 3.3 Variáveis
+# 2.3 Variáveis
 
 Por mais que o R utilize um pouco do paradigma funcional, ele ainda consegue definir variáveis assim como nas linguagens POO, ou seja, você não precisa lidar com a imutabilidade.
 
