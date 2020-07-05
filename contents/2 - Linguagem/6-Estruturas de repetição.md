@@ -6,7 +6,8 @@ No r temos as estruturas de repetição `while` e `for` e como o proprio no diz 
 # While (enquanto)
 
 # O while vai ficar repitindo o codigo enquando ele for verdadeiro
-#Por exemplo, vamos definir a variavél 'i' com o valor 1 e vamos escrever um codigo que a cada repetição vai adicionar 1 e nos retornar o 1, ficaria assim:
+#Por exemplo, vamos definir a variavél 'i' com o valor 1 
+#e vamos escrever um codigo que a cada repetição vai adicionar 1 e nos retornar o 1, ficaria assim:
 i = 1
 
 while(TRUE){
@@ -25,7 +26,9 @@ while(TRUE){
 
 # For (Para)
 
-#O for funciona de forma parecida com o while, entretando, ele é mais utilizado quando você tem um lista com varios algoritimos e quer os vizualizar ou somar um valor em cada item, pra esse exemplo, vamos criar uma variavél com 90 valores
+#O for funciona de forma parecida com o while
+# entretando, ele é mais utilizado quando você tem um lista com varios algoritimos e quer os vizualizar ou somar um valor em cada item
+#pra esse exemplo, vamos criar uma variavél com 90 valores
 
 vari <-c(1:90)
 
