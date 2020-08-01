@@ -23,7 +23,7 @@ Remedio <- setRefClass("remedio",
                        ))
 ```
 
-#Herança
+# Herança
 
 ```{r}
 remedio <- setRefClass("remedio",
