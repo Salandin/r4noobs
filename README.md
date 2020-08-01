@@ -40,14 +40,14 @@
     - [Estrutura de repetição](./contents/2%20-%20Linguagem/6-Estruturas%20de%20repetição.md)
 3. OOP 
     
-    - [Reference Classe](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md)
-      * [Classes](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md#Classe)
-      * [Metodos](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md#Metodos)
-      * [Herança](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md#Herança)
-    - [R6 Libray](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md)
-      * [Classes](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md#Classes)
-      * [Metodos](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md#Metodos)
-      * [Herança](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md#Herança)
+    - [Reference Classe](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md)
+      * [Classes](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md#classe)
+      * [Metodos](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md#metodos)
+      * [Herança](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md#herança)
+    - [R6 Libray](contents/3%20-%20OOP/2%20-%20R6%20Library.md)
+      * [Classes](./contents/3%20-%20OOP/2%20-%20R6%20Library.md#classes)
+      * [Metodos](./contents/3%20-%20OOP/2%20-%20R6%20Library.md#metodos)
+      * [Herança](./contents/3%20-%20OOP/2%20-%20R6%20Library.md#herança)
 
 ## Quero contribuir
 
