@@ -40,10 +40,14 @@
     - [Estrutura de repetição](./contents/2%20-%20Linguagem/6-Estruturas%20de%20repetição.md)
 3. OOP 
     
-    - [Reference Classe]()
-      * [Classes]()
-      * [Metodos]()
-    - [R6 Libray]()
+    - [Reference Classe](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md)
+      * [Classes](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md#Classe)
+      * [Metodos](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md#Metodos)
+      * [Herança](./contents/3%20%-%20%OPP/1%20%-%20%Reference%20%Classe.md#Herança)
+    - [R6 Libray](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md)
+      * [Classes](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md#Classes)
+      * [Metodos](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md#Metodos)
+      * [Herança](./contents/3%20%-%20%OPP/2%20%-%20%R6%20%Library.md#Herança)
 
 ## Quero contribuir
 
