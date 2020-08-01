@@ -39,9 +39,11 @@
     - [Estrutura de decisão](./contents/2%20-%20Linguagem/5-Estruturas%20de%20decisão.md)
     - [Estrutura de repetição](./contents/2%20-%20Linguagem/6-Estruturas%20de%20repetição.md)
 3. OOP 
-    - [Classes]()
-    - [Métodos]()
-    - [Herança e Polimorfismo]()
+    
+    - [Reference Classe]()
+      * [Classes]()
+      * [Metodos]()
+    - [R6 Libray]()
 
 ## Quero contribuir
 
@@ -57,7 +59,7 @@ E tchadam! Tá pronto o sorvetinho ✨
 
 ## Autores
 
-- **Rafael Salandin Moraes (SaLandini)** - _Chess Player & Developer_ [Twitter](https://twitter.com/RafaSalandinM)
+- **Rafael Salandin Moraes (SaLandini)** - _Someone & Developer_ [Twitter](https://twitter.com/RafaSalandinM)
 
 - **Murilo Barbosa (murilobarbosa26)** - _Developer_ [Twitter](https://twitter.com/MuriloBarbosa26)
 
