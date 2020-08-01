@@ -17,7 +17,7 @@ pessoa <- R6Class("Pessoa",
                   ))
 ```
 
-#Metodos
+# Metodos
 
 ```{r}
 pessoa <- R6Class("Pessoa",
