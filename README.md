@@ -39,15 +39,15 @@
     - [Estrutura de decisão](./contents/2%20-%20Linguagem/5-Estruturas%20de%20decisão.md)
     - [Estrutura de repetição](./contents/2%20-%20Linguagem/6-Estruturas%20de%20repetição.md)
 3. OOP 
-    
-    - [Reference Classe](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md)
-      * [Classes](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md#classe)
-      * [Metodos](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md#metodos)
-      * [Herança](./contents/3%20-%20OOP/1%20-%20Reference%20Classe.md#herança)
-    - [R6 Libray](contents/3%20-%20OOP/2%20-%20R6%20Library.md)
-      * [Classes](./contents/3%20-%20OOP/2%20-%20R6%20Library.md#classes)
-      * [Metodos](./contents/3%20-%20OOP/2%20-%20R6%20Library.md#metodos)
-      * [Herança](./contents/3%20-%20OOP/2%20-%20R6%20Library.md#herança)
+    - [Sobre POO em R](./contents/3%20-%20OOP/1%20-%20Sobre%20OOP%20em%20R.md)
+    - [Reference Classe](./contents/3%20-%20OOP/2%20-%20Reference%20Classe.md)
+      * [Classes](./contents/3%20-%20OOP/2%20-%20Reference%20Classe.md#classe)
+      * [Metodos](./contents/3%20-%20OOP/2%20-%20Reference%20Classe.md#metodos)
+      * [Herança](./contents/3%20-%20OOP/2%20-%20Reference%20Classe.md#herança)
+    - [R6 Libray](contents/3%20-%20OOP/3%20-%20R6%20Library.md)
+      * [Classes](./contents/3%20-%20OOP/3%20-%20R6%20Library.md#classes)
+      * [Metodos](./contents/3%20-%20OOP/3%20-%20R6%20Library.md#metodos)
+      * [Herança](./contents/3%20-%20OOP/3%20-%20R6%20Library.md#herança)
 
 ## Quero contribuir
 
