@@ -1,2 +1,4 @@
 # Photoshop files
 *.psd
+# PyCharm idea files
+*.idea
