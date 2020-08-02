@@ -65,8 +65,6 @@ E tchadam! Tá pronto o sorvetinho ✨
 
 - **Rafael Salandin Moraes (SaLandini)** - _Someone & Developer_ [Twitter](https://twitter.com/RafaSalandinM)
 
-- **Murilo Barbosa (murilobarbosa26)** - _Developer_ [Twitter](https://twitter.com/MuriloBarbosa26)
-
 - **Alexandre de Souza (aleDsz)** - _Alchemist & Developer_ [Twitter](https://twitter.com/aleDsz)
 
 <p align="center">
