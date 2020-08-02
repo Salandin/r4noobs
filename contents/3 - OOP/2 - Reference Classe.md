@@ -1,4 +1,4 @@
-# 3.1 Reference Class
+# 3.2 Reference Class
 
 Reference Class é um dos 3 sistemas usado para Programação Orientada a Objetos.
 No caso do sistema RC, ele é o mais parecido com as que temos em outras linguagens como em Python, Java ou em C++ por exemplo. E diferentemente dos sistemas S3 e S4,
