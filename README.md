@@ -5,8 +5,8 @@
 </p>
 
 <h3 align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <a href="https://opensource.org/licenses/GPL-3.0">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/SaLandini/r4noobs">
   </a>
 </h3>
 
