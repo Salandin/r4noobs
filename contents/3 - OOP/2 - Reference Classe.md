@@ -10,7 +10,7 @@ As classes é o que define as caracteristicas do objeto. para fazer isso usamos 
 No exemplo a baixo, a gente atribui a variavel `Remedio` como Classe `"remedio"`
 e nos `fields` os atributos da classe.
 
-```{r}
+```r
 remedio <- setRefClass("remedio", #nome do metodo
                        fields = list(formula = "character",
                                      nome.comercial = "character",
@@ -24,7 +24,7 @@ remedio <- setRefClass("remedio", #nome do metodo
 Metodos são basicamente funções que o seu objeto pode fazer. Para definir um metodo a gente passa uma lista com funções dentro desta forma:
 `methods = list(nome_funcao = function() {sua funcao})`. Como no exemplo em que a gente vai definir a função `retorna_remedio()`. 
 
-```{r}
+```r
 remedio <- setRefClass("remedio",
                        fields = list(formula = "character",
                                      nome.comercial = "character",
@@ -39,13 +39,13 @@ remedio <- setRefClass("remedio",
 ### Visualização dos atributos do objeto
 Em R a gente define um objeto da seguinte forma:
 
-```{r}
+```r
 alpraz <- remedio(formula = "Alprazolam", nome.comercial = "Frontal", dosagem = 2)
 ```
 
 Após isso, caso queiramos ver um atributo ou metodo, a gente faz da seguinte forma
 
-```{r}
+```r
 alpraz$formula
 [1] "Alprazolam"
 
@@ -64,7 +64,7 @@ Herança é quando uma classe herda os atributos/metodos de uma outra. Fazemos e
 
 Nesse exemplo, a gente vai fazer os seguinte: deixar a classe `"remedio"` só com os atributos e a nova classe `"farmacia"` com os metodos. Alem disso, vamos adicionar mais um atributo e uma metodo novo.
 
-```{r}
+```r
 remedio <- setRefClass("remedio",
                        fields = list(formula = "character",
                                      nome.comercial = "character",
@@ -91,11 +91,11 @@ farmacia <- setRefClass("farmacia",
 
 Nesse casos para verificar os atributos/metodos, a gente atribuiu usando a classe `"farmacia"` em vez da `"remedio"`
 
-```{r}
+```r
 alpraz <- farmacia(formula = "Alprazolam", nome.comercial = "Frontal", dosagem = 2, receita=T)
 ```
 
-```{r}
+```r
 
 alpraz$formula
 [1] "Alprazolam"
