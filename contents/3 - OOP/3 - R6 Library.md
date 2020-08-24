@@ -4,7 +4,7 @@ A biblioteca R6 é similhar ao Ref. Classes. Entretanto, o R6 é mais simples de
 
 Para poder usar o R6, a gente tem que primeiro instalar a biblioteca, assim rodamos os seguintes codigos:
 
-```{r}
+```r
 #install.packages(R6)
 library(R6)
 ```
@@ -23,7 +23,7 @@ Usando o `public`, você passa uma lista com os atributos e funções, que poder
 
 `function(atributo1 = algo) { self$atrbuto <- atributo1}`
 
-```{r}
+```r
 pessoa <- R6Class("pessoa",
                   public = list(
                   name = NULL,
@@ -37,11 +37,11 @@ pessoa <- R6Class("pessoa",
 
 Para podermos passar os atributos, usamos o `$new()` depois do nome da classe
 
-```{r}
+```r
 carlos <- pessoa$new("Carlinhos da Guerra", 21)
 ```
 
-```{r}
+```r
 carlos$name
 [1] "Carlinhos da Guerra"
  
@@ -61,7 +61,7 @@ carlos
 
 Usando o `private`, a gente passa os atributos e funções que __SÓ__ podem ser acessadas dentro da classe, e no lugar do `self$atri`, usamos o `private$atri`
 
-```{r}
+```r
 pessoa <- R6Class("pessoa",
                   public = list(
                   initialize = function(name = NA, idade = NA) {
@@ -77,7 +77,7 @@ pessoa <- R6Class("pessoa",
 
 Ao visualizarmos temos o seguinte:
 
-```{r}
+```r
 carlos$name
 NULL
 
@@ -97,7 +97,7 @@ carlos
 # Metodos
 Os metodos são funções que são definidas dentro da public list ou dentro da private list. com o R6, a gente tem um metodo obrigatório que é um `initialize`, é nela que passamos os valores dos atributos ou outros metodos que vão ser executados após a definição do objeto.
 
-```{r}
+```r
 pessoa <- R6Class("pessoa",
                   public = list(
                   initialize = function(name = NA, idade = NA){
@@ -118,7 +118,7 @@ pessoa <- R6Class("pessoa",
 
 Ao definirmos a classe, vamos ter o seguite retorno:
 
-```{r}
+```r
 carlos <- pessoa$new("Carlinhos da Guerra", 21)
 [1] "Opa, me chamo Carlinhos da Guerra e tenho  anos"
 ```
@@ -126,7 +126,7 @@ carlos <- pessoa$new("Carlinhos da Guerra", 21)
 # Herança
 Herança é quando uma classe herda os atributos e metodos de outra. Para fazer isso com a R6 Library, a gente define o `inherit` passando o nome da função após definir o nome que vai herdar da seguinte forma `inherit = nome_classe1`.
 
-```{r}
+```r
 pessoa <- R6Class("pessoa",
                   private = list(
                   name = NULL,
@@ -161,14 +161,14 @@ pessoa_acao <- R6Class("acao",
 
 Para definir um objeto com uma classe com herança, a gente usa a classe que vai herdar.
 
-```{r}
+```r
 carlos <- pessoa_acao$new("Carlinhos da Guerra", 21)
 [1] "Opa, me chamo Carlinhos da Guerra e tenho  anos"
 ```
 
 OBS: para podermos visualizar os outros metodos, a gente faz o seguinte `objeto$nomeFuncao()`.
 
-```{r}
+```r
 carlos$fala()
 [1] "Carlinhos da Guerra Disse: Paralelepipedo"
 
