@@ -72,8 +72,7 @@ print(mensagemDoDia)
 
 Para esse exemplo, passamos a função `ONumeroEPar` do arquivo passado
 
-```{r}
-
+```r
 funcao_pra_quebrar <- function(num){
   if (num%%2 == 0){
     paste("O número", num, "é par")
@@ -81,7 +80,6 @@ funcao_pra_quebrar <- function(num){
     paste("O número", num, "é impar")  
   }
 }
-
 ```
 
 Talvez você repare que não vai rolar passar uma `char` ou uma `string` como parametro, logo vai dar erro
