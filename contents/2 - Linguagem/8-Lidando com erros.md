@@ -20,7 +20,7 @@ Essas três condições tem as suas respectivas funções (`stop`, `warning` && 
 
 ##### `stop()` exemplo:
 
-```{r}
+```r
 for(i in 0:10){
   if(i != 5){
     print(paste("i é igual a", i))
@@ -39,7 +39,7 @@ for(i in 0:10){
 
 ##### `warning()` exemplo:
 
-```{r}
+```r
 for(i in 0:10){
   if(i != 5){
     warning(paste("considere isso um aviso. i=",i))
@@ -58,7 +58,7 @@ for(i in 0:10){
 
 ##### `message()` exemplo:
 
-```{r}
+```r
 mensagemDoDia = "Bom dia, essa é a mensagem do dia"
 
 message(mensagemDoDia)
@@ -86,14 +86,14 @@ funcao_pra_quebrar <- function(num){
 
 Talvez você repare que não vai rolar passar uma `char` ou uma `string` como parametro, logo vai dar erro
 
-```{r}
+```r
 funcao_pra_quebrar("uma string qualquer")
 # Error in num%%2 : non-numeric argument to binary operator
 ```
 
 Assim, é possivel substituir a mensagem de erro pradão pra outra onde fica mais facil compreender o erro. Usamos a função \``tryCatch` para implementar um codigo que é executado quando um erro é gerado.
 
-```{r}
+```r
 funcao_pra_quebrar <- function(num){
   tryCatch(
     error = function(cnd){
@@ -113,7 +113,7 @@ funcao_pra_quebrar("eita, vai quebrar o codigo")
 
 é claro, nem sempre é bom ser tão amigavel nos retornos do erro, em alguns casos é melhor ser mais direto
 
-```{r}
+```r
 funcao_pra_quebrar <- function(num){
   tryCatch(
     error = function(cnd){
