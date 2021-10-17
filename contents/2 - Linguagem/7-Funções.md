@@ -8,24 +8,21 @@ Temos as funções nativas do R, como `print()`, `matrix()`, entre outros.
 
 > A função matrix(), cria uma matriz, nesse caso uma matriz 3x3, de valores de 1 a 9
 
-```{r}
+```r
 a <- matrix(1:9, ncol=3, nrow=3)
 ###      [,1] [,2] [,3]
 ###[1,]    1    4    7
 ###[2,]    2    5    8
 ###[3,]    3    6    9
-
-
 ```
 
 ------------------------------------------------------------------------
 
 > A função print() retorna no console determinado valor, nesse caso o item na coluna 3 e na linha 3 da matrix "a"
 
-```{r}
+```r
 print(a[3,3])
 ### [1] 9
-
 ```
 
 ------------------------------------------------------------------------
@@ -36,7 +33,7 @@ Nesse caso, vamos falar sobre funções que o proprio usuário irá criar. Para 
 
 > Essa função iria verificar se o \`num\` é um numero par ou impar.
 
-```{r}
+```r
 function(num){
   num%%2 == 0
 }
@@ -46,7 +43,7 @@ Entretanto, não definimos a função, logo não é possivel usa-lá.
 
 Para definir-lá, faremos o seguinte:
 
-```{r}
+```r
 ONumeroEPar <- function(num){
   num%%2 == 0
 }
@@ -54,7 +51,7 @@ ONumeroEPar <- function(num){
 
 assim, é possivel usar a função
 
-```{r}
+```r
 ONumeroEPar(10)
 #[1] TRUE
 ```
@@ -63,7 +60,7 @@ ONumeroEPar(10)
 
 Caso queira você também pode deixar as funções mais completas, adicionando funcionalidades ou deixando o seu retorno mais bonitinho, como por exemplo:
 
-```{r}
+```r
 ONumeroEPar <- function(num){
   if (num%%2 == 0){
     paste("O número", num, "é par")
