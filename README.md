@@ -38,6 +38,8 @@
     - [Operadores logícos](./contents/2%20-%20Linguagem/4-Operadores%20logícos.md)
     - [Estrutura de decisão](./contents/2%20-%20Linguagem/5-Estruturas%20de%20decisão.md)
     - [Estrutura de repetição](./contents/2%20-%20Linguagem/6-Estruturas%20de%20repetição.md)
+    - [Funções](./contents/2%20-%20Linguagem/7-Funções.md)
+    - [Lidando com Erros](./contents/2%20-%20Linguagem/8-Lidando%20com%20erros.md)
 3. OOP 
     - [Sobre POO em R](./contents/3%20-%20OOP/1%20-%20Sobre%20OOP%20em%20R.md)
     - [Reference Classe](./contents/3%20-%20OOP/2%20-%20Reference%20Classe.md)
